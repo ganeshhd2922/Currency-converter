@@ -1,0 +1,1 @@
+A currency converter is a handy tool to have when traveling to different countries. This project is written in JavaScript and allows the user to select the currencies they would like to convert from and to. The converter will automatically populate with the current exchange rate between the two currencies.
